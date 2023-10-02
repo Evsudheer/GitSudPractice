@@ -7,5 +7,7 @@ public class Homepage {
 		System.out.println("This is HP");
 		
 		//added comments 
+		
+		String title="HPage";
 	}
 }

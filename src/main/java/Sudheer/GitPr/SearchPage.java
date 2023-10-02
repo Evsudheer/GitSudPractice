@@ -12,5 +12,7 @@ public class SearchPage {
 		
 		System.out.println(str);
 		
+		String country="India";
+			
 	}
 }
