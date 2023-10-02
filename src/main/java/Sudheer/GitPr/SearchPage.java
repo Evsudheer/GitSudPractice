@@ -9,5 +9,8 @@ public class SearchPage {
 		System.out.println("Search page found");
 		
 		String str="Sudheer";
+		
+		System.out.println(str);
+		
 	}
 }
